@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # SPDX-License-Identifier: AGPL-3.0-or-later
 from __future__ import print_function
-from .version import __version__
 
 import getpass
 import locale
@@ -11,6 +10,9 @@ from optparse import OptionGroup
 
 import kopano
 from kopano.parser import _true, _int, _name, _guid, _bool, _list_name, _date, _path
+
+__version__ = '1.0'
+
 
 def parser_opt_args():
     parser = kopano.parser('SKQCugcfVUPs')
