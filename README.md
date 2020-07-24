@@ -2,7 +2,7 @@
 
 An improved Kopano admin utility built on python-kopano.
 
-Originally part of Kopano Core, it will be removed as of the upcoming release.
+Originally part of Kopano Core, it will be removed with the upcoming release (version 10?).
 
 # Usage
 
