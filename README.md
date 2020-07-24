@@ -2,6 +2,8 @@
 
 An improved Kopano admin utility built on python-kopano.
 
+Originally part of Kopano Core, it will be removed as of the upcoming release.
+
 # Usage
 
     Usage: kopano-cli [options]
